@@ -1,0 +1,11 @@
+
+
+@font-face {
+    font-family: gx;
+    src: url("https://irmapserver.ir/qepal/fonts/br.woff2");
+  }
+
+
+.test{
+    background-color: chocolate;
+}
